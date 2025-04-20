@@ -1,0 +1,501 @@
+AssessmentID,AssessmentName,AssessmentType,ApplicableRoles,DifficultyLevel
+1000,Cognitive Assessment 1,Cognitive,"['System Architect', 'Sales Executive']",Easy
+1001,Situational Assessment 2,Situational,"['Data Scientist', 'Support Engineer']",Easy
+1002,Personality Assessment 3,Personality,"['Blockchain Developer', 'Sales Executive', 'Product Manager', 'AI Engineer', 'Cybersecurity Analyst']",Easy
+1003,Technical Assessment 4,Technical,"['Consultant', 'Sales Executive', 'Blockchain Developer']",Medium
+1004,Technical Assessment 5,Technical,"['Support Engineer', 'Medical Officer', 'Business Analyst', 'Software Engineer', 'Cybersecurity Analyst']",Medium
+1005,Cognitive Assessment 6,Cognitive,"['Sales Executive', 'Operations Manager', 'QA Engineer']",Easy
+1006,Technical Assessment 7,Technical,"['UX Designer', 'Customer Service Rep', 'HR Manager', 'Finance Analyst']",Easy
+1007,Behavioral Assessment 8,Behavioral,"['DevOps Engineer', 'Marketing Executive', 'Sales Executive', 'Legal Associate']",Easy
+1008,Behavioral Assessment 9,Behavioral,"['Graphic Designer', 'Operations Manager', 'Sales Executive', 'Finance Analyst']",Hard
+1009,Cognitive Assessment 10,Cognitive,"['Project Manager', 'Business Analyst', 'Operations Manager', 'Legal Associate', 'Support Engineer']",Hard
+1010,Cognitive Assessment 11,Cognitive,"['Data Scientist', 'Consultant', 'Medical Officer', 'QA Engineer', 'Blockchain Developer', 'DevOps Engineer']",Medium
+1011,Situational Assessment 12,Situational,"['Support Engineer', 'Logistics Coordinator', 'DevOps Engineer', 'System Architect']",Medium
+1012,Personality Assessment 13,Personality,"['HR Manager', 'Marketing Executive', 'IT Administrator', 'Data Scientist', 'Product Manager', 'QA Engineer']",Hard
+1013,Personality Assessment 14,Personality,"['IT Administrator', 'Project Manager', 'Product Manager', 'Retail Manager', 'Customer Service Rep', 'Support Engineer']",Easy
+1014,Personality Assessment 15,Personality,"['Blockchain Developer', 'Software Engineer', 'DevOps Engineer', 'Data Scientist', 'Graphic Designer', 'Content Strategist']",Easy
+1015,Personality Assessment 16,Personality,"['System Architect', 'Operations Manager']",Easy
+1016,Situational Assessment 17,Situational,"['HR Manager', 'Team Lead', 'Legal Associate']",Hard
+1017,Cognitive Assessment 18,Cognitive,"['HR Manager', 'System Architect', 'Operations Manager', 'QA Engineer', 'Finance Analyst']",Hard
+1018,Personality Assessment 19,Personality,"['Team Lead', 'Legal Associate']",Medium
+1019,Cognitive Assessment 20,Cognitive,"['Cybersecurity Analyst', 'Logistics Coordinator', 'Medical Officer']",Easy
+1020,Personality Assessment 21,Personality,"['HR Manager', 'UX Designer', 'Customer Service Rep', 'AI Engineer', 'Nurse Manager', 'Cybersecurity Analyst']",Easy
+1021,Personality Assessment 22,Personality,"['Marketing Executive', 'Content Strategist', 'Retail Manager', 'DevOps Engineer']",Hard
+1022,Situational Assessment 23,Situational,"['Team Lead', 'Digital Marketer', 'DevOps Engineer', 'AI Engineer', 'Data Scientist', 'Logistics Coordinator']",Hard
+1023,Technical Assessment 24,Technical,"['Nurse Manager', 'Consultant', 'Marketing Executive']",Medium
+1024,Situational Assessment 25,Situational,"['Digital Marketer', 'IT Administrator', 'QA Engineer', 'Customer Service Rep', 'Retail Manager', 'Project Manager']",Medium
+1025,Personality Assessment 26,Personality,"['UX Designer', 'Consultant', 'DevOps Engineer', 'Retail Manager']",Easy
+1026,Technical Assessment 27,Technical,"['Product Manager', 'System Architect', 'Project Manager', 'Medical Officer', 'Blockchain Developer', 'Consultant']",Hard
+1027,Situational Assessment 28,Situational,"['AI Engineer', 'Retail Manager', 'Cybersecurity Analyst']",Easy
+1028,Technical Assessment 29,Technical,"['Consultant', 'Retail Manager', 'Software Engineer', 'System Architect', 'Blockchain Developer']",Easy
+1029,Behavioral Assessment 30,Behavioral,"['Project Manager', 'Software Engineer', 'IT Administrator', 'Medical Officer', 'Blockchain Developer']",Medium
+1030,Behavioral Assessment 31,Behavioral,"['Consultant', 'Software Engineer', 'AI Engineer', 'Operations Manager']",Hard
+1031,Technical Assessment 32,Technical,"['Product Manager', 'Team Lead', 'Project Manager', 'Retail Manager', 'AI Engineer', 'Support Engineer']",Hard
+1032,Personality Assessment 33,Personality,"['Blockchain Developer', 'Business Analyst', 'Graphic Designer', 'DevOps Engineer', 'System Architect', 'Medical Officer']",Hard
+1033,Cognitive Assessment 34,Cognitive,"['Medical Officer', 'QA Engineer']",Medium
+1034,Situational Assessment 35,Situational,"['Digital Marketer', 'QA Engineer', 'UX Designer', 'Consultant']",Medium
+1035,Cognitive Assessment 36,Cognitive,"['Project Manager', 'Customer Service Rep', 'Data Scientist', 'Nurse Manager', 'QA Engineer']",Hard
+1036,Technical Assessment 37,Technical,"['Project Manager', 'AI Engineer', 'System Architect']",Easy
+1037,Situational Assessment 38,Situational,"['Graphic Designer', 'Software Engineer', 'AI Engineer', 'Project Manager', 'Logistics Coordinator']",Easy
+1038,Cognitive Assessment 39,Cognitive,"['Product Manager', 'Customer Service Rep', 'UX Designer']",Medium
+1039,Behavioral Assessment 40,Behavioral,"['Data Scientist', 'HR Manager', 'Support Engineer', 'Product Manager', 'Medical Officer', 'Digital Marketer']",Easy
+1040,Behavioral Assessment 41,Behavioral,"['Customer Service Rep', 'HR Manager', 'Blockchain Developer', 'Operations Manager']",Easy
+1041,Situational Assessment 42,Situational,"['HR Manager', 'System Architect', 'Product Manager', 'Consultant', 'Software Engineer']",Easy
+1042,Personality Assessment 43,Personality,"['Cybersecurity Analyst', 'Content Strategist']",Hard
+1043,Cognitive Assessment 44,Cognitive,"['Retail Manager', 'Customer Service Rep', 'Nurse Manager', 'HR Manager']",Hard
+1044,Technical Assessment 45,Technical,"['HR Manager', 'Team Lead', 'Software Engineer', 'Data Scientist', 'Graphic Designer']",Medium
+1045,Situational Assessment 46,Situational,"['Customer Service Rep', 'Nurse Manager', 'Business Analyst', 'Product Manager']",Easy
+1046,Technical Assessment 47,Technical,"['Retail Manager', 'QA Engineer', 'UX Designer', 'Software Engineer']",Easy
+1047,Situational Assessment 48,Situational,"['System Architect', 'DevOps Engineer', 'Cybersecurity Analyst']",Easy
+1048,Behavioral Assessment 49,Behavioral,"['Business Analyst', 'Software Engineer', 'QA Engineer', 'Team Lead', 'Marketing Executive', 'System Architect']",Hard
+1049,Situational Assessment 50,Situational,"['System Architect', 'DevOps Engineer', 'Team Lead', 'Blockchain Developer']",Easy
+1050,Cognitive Assessment 51,Cognitive,"['Content Strategist', 'Logistics Coordinator', 'DevOps Engineer', 'UX Designer', 'Product Manager']",Easy
+1051,Behavioral Assessment 52,Behavioral,"['Consultant', 'AI Engineer', 'DevOps Engineer', 'Software Engineer']",Hard
+1052,Personality Assessment 53,Personality,"['Content Strategist', 'Digital Marketer', 'Software Engineer', 'System Architect']",Hard
+1053,Personality Assessment 54,Personality,"['Retail Manager', 'Content Strategist', 'IT Administrator']",Hard
+1054,Behavioral Assessment 55,Behavioral,"['Sales Executive', 'Content Strategist', 'Product Manager', 'AI Engineer']",Easy
+1055,Personality Assessment 56,Personality,"['IT Administrator', 'Retail Manager', 'Software Engineer', 'Finance Analyst']",Hard
+1056,Technical Assessment 57,Technical,"['AI Engineer', 'Customer Service Rep', 'Retail Manager', 'DevOps Engineer', 'Finance Analyst']",Easy
+1057,Behavioral Assessment 58,Behavioral,"['Nurse Manager', 'Consultant', 'Customer Service Rep', 'Digital Marketer']",Hard
+1058,Behavioral Assessment 59,Behavioral,"['Cybersecurity Analyst', 'HR Manager', 'Finance Analyst', 'Retail Manager', 'Customer Service Rep', 'Graphic Designer']",Hard
+1059,Behavioral Assessment 60,Behavioral,"['Blockchain Developer', 'Logistics Coordinator']",Hard
+1060,Situational Assessment 61,Situational,"['Product Manager', 'Content Strategist', 'DevOps Engineer', 'Business Analyst', 'QA Engineer', 'Legal Associate']",Medium
+1061,Personality Assessment 62,Personality,"['Marketing Executive', 'Data Scientist', 'Logistics Coordinator', 'Finance Analyst', 'Cybersecurity Analyst', 'Product Manager']",Hard
+1062,Cognitive Assessment 63,Cognitive,"['Digital Marketer', 'Blockchain Developer', 'Sales Executive', 'Finance Analyst', 'Content Strategist']",Medium
+1063,Cognitive Assessment 64,Cognitive,"['Operations Manager', 'Blockchain Developer', 'Graphic Designer', 'Sales Executive']",Hard
+1064,Situational Assessment 65,Situational,"['Software Engineer', 'Data Scientist', 'IT Administrator', 'AI Engineer', 'System Architect', 'Cybersecurity Analyst']",Easy
+1065,Personality Assessment 66,Personality,"['Digital Marketer', 'UX Designer', 'Cybersecurity Analyst', 'Operations Manager', 'Medical Officer']",Medium
+1066,Cognitive Assessment 67,Cognitive,"['QA Engineer', 'Retail Manager', 'Consultant', 'AI Engineer', 'Finance Analyst', 'DevOps Engineer']",Hard
+1067,Behavioral Assessment 68,Behavioral,"['AI Engineer', 'Medical Officer', 'Finance Analyst', 'Product Manager', 'HR Manager', 'UX Designer']",Medium
+1068,Technical Assessment 69,Technical,"['Retail Manager', 'Legal Associate', 'UX Designer', 'Product Manager']",Easy
+1069,Technical Assessment 70,Technical,"['IT Administrator', 'Nurse Manager', 'Team Lead', 'Software Engineer']",Medium
+1070,Personality Assessment 71,Personality,"['Software Engineer', 'Blockchain Developer']",Hard
+1071,Technical Assessment 72,Technical,"['Team Lead', 'Nurse Manager', 'HR Manager', 'DevOps Engineer', 'Logistics Coordinator']",Easy
+1072,Technical Assessment 73,Technical,"['Customer Service Rep', 'Nurse Manager', 'Logistics Coordinator']",Medium
+1073,Situational Assessment 74,Situational,"['Medical Officer', 'Project Manager', 'Business Analyst']",Medium
+1074,Situational Assessment 75,Situational,"['DevOps Engineer', 'System Architect', 'Graphic Designer', 'Support Engineer']",Hard
+1075,Cognitive Assessment 76,Cognitive,"['Sales Executive', 'Finance Analyst', 'Support Engineer', 'Data Scientist', 'Customer Service Rep', 'Software Engineer']",Hard
+1076,Personality Assessment 77,Personality,"['Project Manager', 'Medical Officer', 'Logistics Coordinator', 'Operations Manager', 'UX Designer']",Medium
+1077,Personality Assessment 78,Personality,"['Project Manager', 'Retail Manager', 'Customer Service Rep']",Hard
+1078,Technical Assessment 79,Technical,"['Blockchain Developer', 'Sales Executive', 'IT Administrator', 'System Architect', 'DevOps Engineer', 'Data Scientist']",Hard
+1079,Personality Assessment 80,Personality,"['Graphic Designer', 'Cybersecurity Analyst', 'Nurse Manager', 'Legal Associate', 'Logistics Coordinator']",Easy
+1080,Behavioral Assessment 81,Behavioral,"['Cybersecurity Analyst', 'IT Administrator']",Hard
+1081,Behavioral Assessment 82,Behavioral,"['Consultant', 'Logistics Coordinator', 'Software Engineer']",Hard
+1082,Cognitive Assessment 83,Cognitive,"['Digital Marketer', 'Product Manager']",Hard
+1083,Behavioral Assessment 84,Behavioral,"['HR Manager', 'Medical Officer', 'Operations Manager', 'Graphic Designer', 'Blockchain Developer']",Hard
+1084,Cognitive Assessment 85,Cognitive,"['Product Manager', 'Project Manager']",Hard
+1085,Cognitive Assessment 86,Cognitive,"['AI Engineer', 'Cybersecurity Analyst', 'DevOps Engineer', 'Content Strategist', 'Graphic Designer', 'Business Analyst']",Medium
+1086,Situational Assessment 87,Situational,"['Operations Manager', 'System Architect']",Medium
+1087,Cognitive Assessment 88,Cognitive,"['Content Strategist', 'Business Analyst', 'Blockchain Developer']",Hard
+1088,Technical Assessment 89,Technical,"['Nurse Manager', 'Product Manager', 'Cybersecurity Analyst', 'Blockchain Developer', 'Operations Manager', 'Project Manager']",Medium
+1089,Technical Assessment 90,Technical,"['Finance Analyst', 'Content Strategist', 'Product Manager', 'Project Manager', 'AI Engineer']",Medium
+1090,Situational Assessment 91,Situational,"['Finance Analyst', 'Consultant']",Easy
+1091,Personality Assessment 92,Personality,"['Customer Service Rep', 'Marketing Executive', 'Retail Manager', 'Medical Officer', 'Logistics Coordinator', 'Data Scientist']",Medium
+1092,Personality Assessment 93,Personality,"['Product Manager', 'Consultant', 'Logistics Coordinator', 'Data Scientist', 'HR Manager']",Hard
+1093,Situational Assessment 94,Situational,"['UX Designer', 'Retail Manager', 'Logistics Coordinator']",Medium
+1094,Behavioral Assessment 95,Behavioral,"['Digital Marketer', 'DevOps Engineer', 'Product Manager', 'Marketing Executive']",Hard
+1095,Personality Assessment 96,Personality,"['QA Engineer', 'IT Administrator', 'Product Manager', 'Retail Manager', 'Graphic Designer']",Medium
+1096,Personality Assessment 97,Personality,"['Data Scientist', 'Business Analyst']",Medium
+1097,Situational Assessment 98,Situational,"['DevOps Engineer', 'Nurse Manager', 'Data Scientist', 'Logistics Coordinator', 'AI Engineer']",Easy
+1098,Technical Assessment 99,Technical,"['Digital Marketer', 'QA Engineer', 'Graphic Designer']",Medium
+1099,Behavioral Assessment 100,Behavioral,"['Logistics Coordinator', 'Cybersecurity Analyst', 'Consultant', 'Project Manager', 'Business Analyst']",Medium
+1100,Technical Assessment 101,Technical,"['Product Manager', 'HR Manager', 'Nurse Manager', 'Data Scientist']",Hard
+1101,Cognitive Assessment 102,Cognitive,"['IT Administrator', 'DevOps Engineer', 'Operations Manager', 'Data Scientist', 'Business Analyst', 'Content Strategist']",Medium
+1102,Cognitive Assessment 103,Cognitive,"['Blockchain Developer', 'Support Engineer', 'Finance Analyst']",Medium
+1103,Cognitive Assessment 104,Cognitive,"['Graphic Designer', 'Support Engineer', 'System Architect']",Hard
+1104,Cognitive Assessment 105,Cognitive,"['HR Manager', 'Content Strategist', 'Graphic Designer']",Hard
+1105,Behavioral Assessment 106,Behavioral,"['Content Strategist', 'Graphic Designer', 'Retail Manager']",Hard
+1106,Technical Assessment 107,Technical,"['Nurse Manager', 'Retail Manager', 'Finance Analyst', 'IT Administrator', 'DevOps Engineer']",Medium
+1107,Behavioral Assessment 108,Behavioral,"['Retail Manager', 'IT Administrator', 'Product Manager', 'Consultant', 'Operations Manager']",Hard
+1108,Behavioral Assessment 109,Behavioral,"['Digital Marketer', 'IT Administrator', 'Cybersecurity Analyst', 'Support Engineer', 'Operations Manager', 'Logistics Coordinator']",Hard
+1109,Situational Assessment 110,Situational,"['Product Manager', 'Business Analyst', 'Digital Marketer', 'AI Engineer']",Easy
+1110,Cognitive Assessment 111,Cognitive,"['Digital Marketer', 'Project Manager', 'Operations Manager', 'Nurse Manager']",Easy
+1111,Behavioral Assessment 112,Behavioral,"['System Architect', 'Project Manager', 'Finance Analyst']",Medium
+1112,Behavioral Assessment 113,Behavioral,"['Support Engineer', 'Software Engineer', 'UX Designer']",Medium
+1113,Behavioral Assessment 114,Behavioral,"['Graphic Designer', 'AI Engineer', 'Software Engineer', 'UX Designer']",Medium
+1114,Personality Assessment 115,Personality,"['Consultant', 'AI Engineer', 'Product Manager', 'Customer Service Rep', 'Data Scientist']",Hard
+1115,Behavioral Assessment 116,Behavioral,"['Graphic Designer', 'Medical Officer', 'Support Engineer', 'Customer Service Rep']",Medium
+1116,Technical Assessment 117,Technical,"['Customer Service Rep', 'Nurse Manager']",Hard
+1117,Personality Assessment 118,Personality,"['Software Engineer', 'QA Engineer', 'HR Manager', 'Nurse Manager', 'Blockchain Developer', 'Graphic Designer']",Hard
+1118,Behavioral Assessment 119,Behavioral,"['Finance Analyst', 'Product Manager', 'Customer Service Rep', 'UX Designer', 'Data Scientist', 'Business Analyst']",Medium
+1119,Personality Assessment 120,Personality,"['Retail Manager', 'Product Manager', 'Customer Service Rep']",Medium
+1120,Cognitive Assessment 121,Cognitive,"['Finance Analyst', 'HR Manager', 'Sales Executive']",Medium
+1121,Behavioral Assessment 122,Behavioral,"['AI Engineer', 'Project Manager']",Easy
+1122,Cognitive Assessment 123,Cognitive,"['Support Engineer', 'Digital Marketer', 'Content Strategist', 'Product Manager', 'HR Manager', 'Business Analyst']",Hard
+1123,Technical Assessment 124,Technical,"['DevOps Engineer', 'Software Engineer', 'Logistics Coordinator', 'AI Engineer', 'Blockchain Developer']",Medium
+1124,Cognitive Assessment 125,Cognitive,"['UX Designer', 'Marketing Executive', 'Software Engineer', 'Graphic Designer']",Hard
+1125,Personality Assessment 126,Personality,"['AI Engineer', 'Marketing Executive', 'Software Engineer']",Easy
+1126,Situational Assessment 127,Situational,"['IT Administrator', 'Business Analyst']",Medium
+1127,Personality Assessment 128,Personality,"['Retail Manager', 'Finance Analyst', 'Product Manager']",Medium
+1128,Cognitive Assessment 129,Cognitive,"['Team Lead', 'Consultant', 'Marketing Executive', 'Finance Analyst', 'System Architect']",Hard
+1129,Personality Assessment 130,Personality,"['Finance Analyst', 'Sales Executive', 'Marketing Executive']",Hard
+1130,Technical Assessment 131,Technical,"['Digital Marketer', 'Team Lead', 'Operations Manager']",Hard
+1131,Technical Assessment 132,Technical,"['Support Engineer', 'HR Manager', 'UX Designer']",Easy
+1132,Cognitive Assessment 133,Cognitive,"['Sales Executive', 'Operations Manager', 'Customer Service Rep', 'QA Engineer', 'Nurse Manager']",Easy
+1133,Technical Assessment 134,Technical,"['Cybersecurity Analyst', 'Product Manager', 'Marketing Executive']",Hard
+1134,Behavioral Assessment 135,Behavioral,"['HR Manager', 'Cybersecurity Analyst', 'IT Administrator', 'Consultant', 'Content Strategist', 'Nurse Manager']",Hard
+1135,Behavioral Assessment 136,Behavioral,"['Digital Marketer', 'Nurse Manager', 'System Architect', 'UX Designer', 'Logistics Coordinator']",Easy
+1136,Cognitive Assessment 137,Cognitive,"['Sales Executive', 'Retail Manager', 'Nurse Manager', 'Logistics Coordinator', 'Cybersecurity Analyst', 'Consultant']",Medium
+1137,Cognitive Assessment 138,Cognitive,"['Cybersecurity Analyst', 'Blockchain Developer', 'Digital Marketer', 'Marketing Executive', 'HR Manager', 'Sales Executive']",Medium
+1138,Behavioral Assessment 139,Behavioral,"['Cybersecurity Analyst', 'Finance Analyst', 'Sales Executive', 'DevOps Engineer', 'Data Scientist', 'IT Administrator']",Hard
+1139,Situational Assessment 140,Situational,"['Product Manager', 'QA Engineer', 'UX Designer', 'Blockchain Developer']",Easy
+1140,Behavioral Assessment 141,Behavioral,"['Legal Associate', 'Support Engineer', 'HR Manager', 'Retail Manager', 'Product Manager']",Medium
+1141,Cognitive Assessment 142,Cognitive,"['Consultant', 'Support Engineer']",Easy
+1142,Situational Assessment 143,Situational,"['Sales Executive', 'Support Engineer', 'Finance Analyst']",Hard
+1143,Situational Assessment 144,Situational,"['AI Engineer', 'Operations Manager', 'IT Administrator', 'DevOps Engineer', 'Project Manager', 'Blockchain Developer']",Medium
+1144,Technical Assessment 145,Technical,"['UX Designer', 'Product Manager', 'Software Engineer', 'Digital Marketer', 'Project Manager']",Easy
+1145,Technical Assessment 146,Technical,"['Logistics Coordinator', 'Marketing Executive', 'QA Engineer', 'Blockchain Developer']",Hard
+1146,Personality Assessment 147,Personality,"['Content Strategist', 'Blockchain Developer', 'DevOps Engineer', 'Logistics Coordinator', 'QA Engineer']",Hard
+1147,Personality Assessment 148,Personality,"['Marketing Executive', 'Graphic Designer']",Medium
+1148,Behavioral Assessment 149,Behavioral,"['Legal Associate', 'Digital Marketer', 'Team Lead', 'AI Engineer', 'Sales Executive', 'Business Analyst']",Medium
+1149,Technical Assessment 150,Technical,"['Support Engineer', 'Digital Marketer', 'Business Analyst', 'Software Engineer']",Medium
+1150,Behavioral Assessment 151,Behavioral,"['Graphic Designer', 'AI Engineer', 'Customer Service Rep']",Easy
+1151,Technical Assessment 152,Technical,"['Logistics Coordinator', 'DevOps Engineer', 'Business Analyst', 'Marketing Executive', 'Medical Officer', 'Product Manager']",Easy
+1152,Personality Assessment 153,Personality,"['Software Engineer', 'AI Engineer', 'HR Manager', 'QA Engineer']",Medium
+1153,Situational Assessment 154,Situational,"['Cybersecurity Analyst', 'Team Lead', 'UX Designer', 'Legal Associate', 'System Architect', 'IT Administrator']",Hard
+1154,Personality Assessment 155,Personality,"['HR Manager', 'Operations Manager', 'Digital Marketer']",Hard
+1155,Technical Assessment 156,Technical,"['Software Engineer', 'Project Manager', 'Product Manager', 'QA Engineer', 'Data Scientist', 'System Architect']",Medium
+1156,Personality Assessment 157,Personality,"['QA Engineer', 'Digital Marketer', 'Medical Officer', 'Nurse Manager', 'HR Manager', 'Support Engineer']",Easy
+1157,Technical Assessment 158,Technical,"['Product Manager', 'Retail Manager']",Hard
+1158,Technical Assessment 159,Technical,"['IT Administrator', 'AI Engineer', 'UX Designer', 'Consultant']",Easy
+1159,Situational Assessment 160,Situational,"['Software Engineer', 'Retail Manager', 'UX Designer']",Hard
+1160,Situational Assessment 161,Situational,"['Team Lead', 'IT Administrator', 'System Architect', 'AI Engineer']",Medium
+1161,Personality Assessment 162,Personality,"['System Architect', 'Nurse Manager']",Medium
+1162,Technical Assessment 163,Technical,"['Consultant', 'IT Administrator', 'DevOps Engineer', 'Cybersecurity Analyst']",Hard
+1163,Cognitive Assessment 164,Cognitive,"['Logistics Coordinator', 'Retail Manager', 'HR Manager']",Hard
+1164,Technical Assessment 165,Technical,"['DevOps Engineer', 'Support Engineer']",Medium
+1165,Situational Assessment 166,Situational,"['UX Designer', 'Content Strategist', 'Medical Officer', 'Cybersecurity Analyst']",Hard
+1166,Situational Assessment 167,Situational,"['Team Lead', 'HR Manager', 'Data Scientist', 'Software Engineer', 'Sales Executive', 'Consultant']",Easy
+1167,Technical Assessment 168,Technical,"['DevOps Engineer', 'Operations Manager', 'Customer Service Rep', 'IT Administrator', 'Project Manager', 'QA Engineer']",Hard
+1168,Situational Assessment 169,Situational,"['Content Strategist', 'Team Lead', 'Cybersecurity Analyst', 'Medical Officer', 'Graphic Designer', 'Product Manager']",Medium
+1169,Behavioral Assessment 170,Behavioral,"['Blockchain Developer', 'DevOps Engineer', 'Finance Analyst', 'System Architect', 'Project Manager', 'Medical Officer']",Medium
+1170,Technical Assessment 171,Technical,"['Operations Manager', 'Retail Manager', 'IT Administrator']",Medium
+1171,Situational Assessment 172,Situational,"['System Architect', 'Operations Manager']",Hard
+1172,Personality Assessment 173,Personality,"['Legal Associate', 'Finance Analyst', 'Business Analyst']",Easy
+1173,Personality Assessment 174,Personality,"['Operations Manager', 'Marketing Executive', 'Finance Analyst', 'Nurse Manager', 'Medical Officer', 'Legal Associate']",Medium
+1174,Situational Assessment 175,Situational,"['Support Engineer', 'Customer Service Rep', 'Nurse Manager', 'Cybersecurity Analyst', 'HR Manager', 'Digital Marketer']",Hard
+1175,Behavioral Assessment 176,Behavioral,"['Medical Officer', 'Customer Service Rep', 'Software Engineer', 'HR Manager']",Hard
+1176,Situational Assessment 177,Situational,"['Logistics Coordinator', 'Cybersecurity Analyst']",Hard
+1177,Cognitive Assessment 178,Cognitive,"['Legal Associate', 'Retail Manager']",Medium
+1178,Behavioral Assessment 179,Behavioral,"['Blockchain Developer', 'Graphic Designer', 'Legal Associate', 'Team Lead']",Medium
+1179,Personality Assessment 180,Personality,"['Logistics Coordinator', 'UX Designer']",Medium
+1180,Behavioral Assessment 181,Behavioral,"['Product Manager', 'Finance Analyst', 'DevOps Engineer', 'Retail Manager', 'IT Administrator']",Hard
+1181,Personality Assessment 182,Personality,"['System Architect', 'AI Engineer']",Easy
+1182,Behavioral Assessment 183,Behavioral,"['Support Engineer', 'Project Manager', 'Product Manager', 'AI Engineer']",Easy
+1183,Personality Assessment 184,Personality,"['System Architect', 'Medical Officer']",Hard
+1184,Technical Assessment 185,Technical,"['Digital Marketer', 'Logistics Coordinator', 'HR Manager']",Hard
+1185,Cognitive Assessment 186,Cognitive,"['AI Engineer', 'Business Analyst']",Medium
+1186,Situational Assessment 187,Situational,"['Cybersecurity Analyst', 'Customer Service Rep', 'UX Designer']",Easy
+1187,Personality Assessment 188,Personality,"['Team Lead', 'UX Designer', 'Consultant', 'Customer Service Rep']",Medium
+1188,Cognitive Assessment 189,Cognitive,"['Project Manager', 'Legal Associate', 'Software Engineer', 'UX Designer', 'Support Engineer']",Hard
+1189,Situational Assessment 190,Situational,"['Customer Service Rep', 'Blockchain Developer']",Medium
+1190,Personality Assessment 191,Personality,"['Operations Manager', 'Medical Officer', 'System Architect', 'UX Designer', 'AI Engineer', 'IT Administrator']",Easy
+1191,Personality Assessment 192,Personality,"['Digital Marketer', 'Operations Manager', 'Graphic Designer']",Hard
+1192,Personality Assessment 193,Personality,"['Medical Officer', 'Product Manager', 'Data Scientist']",Hard
+1193,Technical Assessment 194,Technical,"['Business Analyst', 'Finance Analyst', 'Team Lead', 'Nurse Manager', 'Marketing Executive', 'Product Manager']",Hard
+1194,Cognitive Assessment 195,Cognitive,"['System Architect', 'HR Manager']",Hard
+1195,Behavioral Assessment 196,Behavioral,"['Consultant', 'DevOps Engineer']",Medium
+1196,Personality Assessment 197,Personality,"['Project Manager', 'Team Lead', 'UX Designer', 'Consultant', 'Business Analyst', 'Logistics Coordinator']",Easy
+1197,Behavioral Assessment 198,Behavioral,"['Project Manager', 'Retail Manager', 'DevOps Engineer', 'Blockchain Developer']",Medium
+1198,Situational Assessment 199,Situational,"['UX Designer', 'IT Administrator']",Easy
+1199,Technical Assessment 200,Technical,"['Nurse Manager', 'Marketing Executive', 'Legal Associate', 'HR Manager', 'Product Manager', 'Medical Officer']",Easy
+1200,Behavioral Assessment 201,Behavioral,"['Finance Analyst', 'HR Manager']",Medium
+1201,Cognitive Assessment 202,Cognitive,"['Blockchain Developer', 'Medical Officer']",Medium
+1202,Situational Assessment 203,Situational,"['Finance Analyst', 'Consultant']",Easy
+1203,Situational Assessment 204,Situational,"['Marketing Executive', 'Software Engineer', 'UX Designer', 'Retail Manager', 'HR Manager', 'Team Lead']",Hard
+1204,Technical Assessment 205,Technical,"['Nurse Manager', 'Software Engineer', 'Project Manager']",Easy
+1205,Technical Assessment 206,Technical,"['System Architect', 'Medical Officer']",Hard
+1206,Behavioral Assessment 207,Behavioral,"['Blockchain Developer', 'Nurse Manager']",Hard
+1207,Situational Assessment 208,Situational,"['Consultant', 'Sales Executive', 'Product Manager', 'Software Engineer', 'UX Designer']",Medium
+1208,Personality Assessment 209,Personality,"['Finance Analyst', 'Data Scientist', 'Project Manager', 'HR Manager']",Easy
+1209,Cognitive Assessment 210,Cognitive,"['Finance Analyst', 'Legal Associate', 'Digital Marketer', 'Support Engineer', 'UX Designer', 'Medical Officer']",Hard
+1210,Situational Assessment 211,Situational,"['HR Manager', 'Nurse Manager', 'Operations Manager', 'Retail Manager', 'Legal Associate']",Easy
+1211,Behavioral Assessment 212,Behavioral,"['Cybersecurity Analyst', 'Software Engineer', 'Marketing Executive', 'Support Engineer', 'HR Manager']",Hard
+1212,Cognitive Assessment 213,Cognitive,"['UX Designer', 'Sales Executive']",Hard
+1213,Technical Assessment 214,Technical,"['DevOps Engineer', 'IT Administrator', 'UX Designer', 'Graphic Designer', 'Finance Analyst']",Hard
+1214,Behavioral Assessment 215,Behavioral,"['AI Engineer', 'Operations Manager', 'Business Analyst']",Easy
+1215,Situational Assessment 216,Situational,"['Retail Manager', 'Legal Associate', 'Blockchain Developer', 'Team Lead', 'Marketing Executive']",Hard
+1216,Behavioral Assessment 217,Behavioral,"['Digital Marketer', 'Support Engineer', 'Content Strategist', 'Logistics Coordinator']",Easy
+1217,Behavioral Assessment 218,Behavioral,"['Software Engineer', 'Finance Analyst']",Medium
+1218,Technical Assessment 219,Technical,"['Cybersecurity Analyst', 'Support Engineer']",Medium
+1219,Situational Assessment 220,Situational,"['Logistics Coordinator', 'Product Manager', 'Team Lead', 'Operations Manager']",Medium
+1220,Cognitive Assessment 221,Cognitive,"['Retail Manager', 'Content Strategist', 'Logistics Coordinator']",Easy
+1221,Situational Assessment 222,Situational,"['Digital Marketer', 'Retail Manager']",Easy
+1222,Cognitive Assessment 223,Cognitive,"['Finance Analyst', 'Legal Associate', 'IT Administrator', 'Retail Manager', 'Marketing Executive', 'HR Manager']",Easy
+1223,Situational Assessment 224,Situational,"['Logistics Coordinator', 'Blockchain Developer', 'Cybersecurity Analyst', 'Finance Analyst', 'Graphic Designer', 'Software Engineer']",Medium
+1224,Cognitive Assessment 225,Cognitive,"['AI Engineer', 'Logistics Coordinator']",Medium
+1225,Technical Assessment 226,Technical,"['Cybersecurity Analyst', 'Software Engineer', 'System Architect']",Medium
+1226,Behavioral Assessment 227,Behavioral,"['Project Manager', 'HR Manager', 'AI Engineer']",Hard
+1227,Personality Assessment 228,Personality,"['Marketing Executive', 'Blockchain Developer', 'UX Designer', 'QA Engineer', 'Support Engineer', 'Logistics Coordinator']",Medium
+1228,Personality Assessment 229,Personality,"['Retail Manager', 'Blockchain Developer', 'Data Scientist', 'Product Manager', 'Finance Analyst', 'Content Strategist']",Medium
+1229,Personality Assessment 230,Personality,"['Product Manager', 'Medical Officer', 'Retail Manager', 'Consultant']",Easy
+1230,Personality Assessment 231,Personality,"['Team Lead', 'QA Engineer', 'System Architect']",Hard
+1231,Behavioral Assessment 232,Behavioral,"['Support Engineer', 'Finance Analyst', 'Project Manager', 'Operations Manager', 'Medical Officer', 'Customer Service Rep']",Easy
+1232,Situational Assessment 233,Situational,"['Operations Manager', 'Consultant', 'Software Engineer']",Medium
+1233,Behavioral Assessment 234,Behavioral,"['Customer Service Rep', 'UX Designer']",Medium
+1234,Situational Assessment 235,Situational,"['Medical Officer', 'Project Manager', 'Support Engineer', 'Product Manager', 'Consultant', 'Finance Analyst']",Hard
+1235,Situational Assessment 236,Situational,"['Digital Marketer', 'Consultant', 'Business Analyst', 'Support Engineer', 'Legal Associate', 'IT Administrator']",Easy
+1236,Technical Assessment 237,Technical,"['DevOps Engineer', 'Retail Manager', 'Digital Marketer', 'Graphic Designer', 'QA Engineer']",Hard
+1237,Cognitive Assessment 238,Cognitive,"['Data Scientist', 'Software Engineer', 'IT Administrator', 'QA Engineer', 'UX Designer', 'Retail Manager']",Easy
+1238,Cognitive Assessment 239,Cognitive,"['AI Engineer', 'Customer Service Rep', 'Business Analyst']",Easy
+1239,Technical Assessment 240,Technical,"['Content Strategist', 'IT Administrator', 'Marketing Executive', 'Software Engineer', 'Operations Manager', 'Graphic Designer']",Easy
+1240,Situational Assessment 241,Situational,"['Legal Associate', 'Marketing Executive', 'Support Engineer', 'Content Strategist']",Hard
+1241,Technical Assessment 242,Technical,"['Operations Manager', 'Retail Manager', 'Finance Analyst', 'System Architect', 'HR Manager', 'AI Engineer']",Easy
+1242,Technical Assessment 243,Technical,"['IT Administrator', 'Digital Marketer', 'Cybersecurity Analyst', 'HR Manager', 'Content Strategist']",Easy
+1243,Personality Assessment 244,Personality,"['Data Scientist', 'Software Engineer', 'Project Manager', 'Finance Analyst', 'Nurse Manager', 'Medical Officer']",Medium
+1244,Situational Assessment 245,Situational,"['Customer Service Rep', 'Graphic Designer', 'Blockchain Developer', 'Project Manager']",Medium
+1245,Behavioral Assessment 246,Behavioral,"['Nurse Manager', 'AI Engineer', 'Content Strategist', 'Customer Service Rep']",Medium
+1246,Technical Assessment 247,Technical,"['Project Manager', 'Software Engineer', 'Graphic Designer', 'QA Engineer']",Hard
+1247,Cognitive Assessment 248,Cognitive,"['DevOps Engineer', 'Business Analyst', 'Digital Marketer', 'Data Scientist', 'Retail Manager']",Easy
+1248,Behavioral Assessment 249,Behavioral,"['System Architect', 'Logistics Coordinator', 'DevOps Engineer']",Easy
+1249,Personality Assessment 250,Personality,"['HR Manager', 'Medical Officer']",Hard
+1250,Behavioral Assessment 251,Behavioral,"['Digital Marketer', 'HR Manager', 'Legal Associate', 'Consultant', 'Business Analyst', 'AI Engineer']",Medium
+1251,Cognitive Assessment 252,Cognitive,"['Data Scientist', 'Software Engineer', 'Legal Associate']",Hard
+1252,Technical Assessment 253,Technical,"['Support Engineer', 'Software Engineer', 'IT Administrator', 'Business Analyst', 'Customer Service Rep', 'AI Engineer']",Easy
+1253,Personality Assessment 254,Personality,"['Blockchain Developer', 'DevOps Engineer', 'Marketing Executive', 'Support Engineer', 'Team Lead']",Medium
+1254,Situational Assessment 255,Situational,"['Consultant', 'Business Analyst', 'DevOps Engineer']",Easy
+1255,Behavioral Assessment 256,Behavioral,"['DevOps Engineer', 'Legal Associate']",Medium
+1256,Cognitive Assessment 257,Cognitive,"['Team Lead', 'Consultant', 'Sales Executive']",Medium
+1257,Personality Assessment 258,Personality,"['Data Scientist', 'IT Administrator', 'Support Engineer', 'Cybersecurity Analyst', 'Marketing Executive', 'HR Manager']",Medium
+1258,Cognitive Assessment 259,Cognitive,"['Nurse Manager', 'Digital Marketer', 'Business Analyst', 'AI Engineer']",Easy
+1259,Cognitive Assessment 260,Cognitive,"['System Architect', 'Software Engineer']",Hard
+1260,Behavioral Assessment 261,Behavioral,"['Consultant', 'AI Engineer', 'QA Engineer', 'Sales Executive', 'IT Administrator']",Hard
+1261,Cognitive Assessment 262,Cognitive,"['Logistics Coordinator', 'DevOps Engineer']",Easy
+1262,Technical Assessment 263,Technical,"['Retail Manager', 'Medical Officer', 'Project Manager', 'DevOps Engineer', 'Software Engineer']",Hard
+1263,Personality Assessment 264,Personality,"['Retail Manager', 'Medical Officer', 'Data Scientist']",Medium
+1264,Behavioral Assessment 265,Behavioral,"['Logistics Coordinator', 'AI Engineer', 'Customer Service Rep', 'System Architect']",Easy
+1265,Cognitive Assessment 266,Cognitive,"['DevOps Engineer', 'Retail Manager', 'Project Manager']",Easy
+1266,Technical Assessment 267,Technical,"['Software Engineer', 'Nurse Manager', 'Retail Manager', 'IT Administrator', 'Business Analyst']",Medium
+1267,Cognitive Assessment 268,Cognitive,"['Cybersecurity Analyst', 'Retail Manager', 'Product Manager']",Easy
+1268,Cognitive Assessment 269,Cognitive,"['Cybersecurity Analyst', 'Sales Executive', 'Content Strategist', 'Digital Marketer', 'Graphic Designer', 'QA Engineer']",Hard
+1269,Behavioral Assessment 270,Behavioral,"['System Architect', 'HR Manager', 'Data Scientist', 'Graphic Designer']",Medium
+1270,Technical Assessment 271,Technical,"['Product Manager', 'QA Engineer']",Hard
+1271,Behavioral Assessment 272,Behavioral,"['Marketing Executive', 'Support Engineer']",Easy
+1272,Cognitive Assessment 273,Cognitive,"['Team Lead', 'Medical Officer', 'Sales Executive', 'Marketing Executive', 'Consultant']",Hard
+1273,Situational Assessment 274,Situational,"['Retail Manager', 'Graphic Designer', 'Finance Analyst', 'Operations Manager', 'Cybersecurity Analyst']",Easy
+1274,Behavioral Assessment 275,Behavioral,"['Legal Associate', 'Product Manager', 'Software Engineer', 'Team Lead', 'Customer Service Rep', 'Sales Executive']",Hard
+1275,Behavioral Assessment 276,Behavioral,"['Cybersecurity Analyst', 'Sales Executive']",Medium
+1276,Technical Assessment 277,Technical,"['Medical Officer', 'Graphic Designer', 'QA Engineer', 'Digital Marketer']",Hard
+1277,Situational Assessment 278,Situational,"['Retail Manager', 'System Architect', 'Digital Marketer', 'Legal Associate', 'Cybersecurity Analyst', 'Graphic Designer']",Hard
+1278,Technical Assessment 279,Technical,"['Cybersecurity Analyst', 'Retail Manager', 'Sales Executive']",Hard
+1279,Personality Assessment 280,Personality,"['Customer Service Rep', 'UX Designer', 'Data Scientist', 'AI Engineer', 'QA Engineer', 'Software Engineer']",Easy
+1280,Personality Assessment 281,Personality,"['Content Strategist', 'Team Lead', 'AI Engineer']",Easy
+1281,Technical Assessment 282,Technical,"['Content Strategist', 'Medical Officer', 'AI Engineer', 'Software Engineer', 'Digital Marketer', 'Business Analyst']",Easy
+1282,Cognitive Assessment 283,Cognitive,"['Medical Officer', 'Cybersecurity Analyst', 'Data Scientist']",Easy
+1283,Behavioral Assessment 284,Behavioral,"['Team Lead', 'Content Strategist', 'Sales Executive', 'AI Engineer']",Medium
+1284,Situational Assessment 285,Situational,"['Software Engineer', 'AI Engineer', 'Operations Manager', 'Support Engineer', 'QA Engineer', 'Retail Manager']",Easy
+1285,Cognitive Assessment 286,Cognitive,"['Retail Manager', 'Cybersecurity Analyst']",Hard
+1286,Technical Assessment 287,Technical,"['Medical Officer', 'UX Designer', 'AI Engineer']",Medium
+1287,Situational Assessment 288,Situational,"['Medical Officer', 'AI Engineer', 'Customer Service Rep', 'Consultant']",Medium
+1288,Situational Assessment 289,Situational,"['Nurse Manager', 'Team Lead', 'Graphic Designer', 'HR Manager', 'Content Strategist']",Easy
+1289,Technical Assessment 290,Technical,"['Legal Associate', 'Cybersecurity Analyst', 'Logistics Coordinator']",Hard
+1290,Personality Assessment 291,Personality,"['Customer Service Rep', 'Content Strategist', 'Project Manager', 'HR Manager']",Medium
+1291,Situational Assessment 292,Situational,"['Graphic Designer', 'AI Engineer', 'Medical Officer', 'Software Engineer']",Hard
+1292,Situational Assessment 293,Situational,"['Graphic Designer', 'Legal Associate', 'Product Manager']",Easy
+1293,Cognitive Assessment 294,Cognitive,"['Customer Service Rep', 'Business Analyst']",Easy
+1294,Behavioral Assessment 295,Behavioral,"['Blockchain Developer', 'Graphic Designer', 'IT Administrator', 'Retail Manager', 'Digital Marketer', 'Logistics Coordinator']",Hard
+1295,Cognitive Assessment 296,Cognitive,"['Marketing Executive', 'UX Designer', 'AI Engineer']",Easy
+1296,Situational Assessment 297,Situational,"['Operations Manager', 'Team Lead', 'Graphic Designer', 'UX Designer']",Hard
+1297,Technical Assessment 298,Technical,"['HR Manager', 'Retail Manager', 'System Architect', 'IT Administrator', 'Cybersecurity Analyst']",Hard
+1298,Cognitive Assessment 299,Cognitive,"['Data Scientist', 'HR Manager', 'Product Manager', 'QA Engineer']",Easy
+1299,Technical Assessment 300,Technical,"['UX Designer', 'IT Administrator', 'Sales Executive', 'Consultant', 'Blockchain Developer', 'Support Engineer']",Hard
+1300,Behavioral Assessment 301,Behavioral,"['Team Lead', 'AI Engineer', 'Software Engineer', 'Blockchain Developer']",Hard
+1301,Technical Assessment 302,Technical,"['IT Administrator', 'Logistics Coordinator', 'Retail Manager', 'AI Engineer', 'HR Manager', 'Team Lead']",Medium
+1302,Cognitive Assessment 303,Cognitive,"['UX Designer', 'Logistics Coordinator', 'AI Engineer']",Easy
+1303,Technical Assessment 304,Technical,"['Operations Manager', 'UX Designer']",Easy
+1304,Technical Assessment 305,Technical,"['Legal Associate', 'HR Manager']",Hard
+1305,Cognitive Assessment 306,Cognitive,"['Blockchain Developer', 'Finance Analyst', 'Sales Executive', 'AI Engineer', 'Team Lead']",Easy
+1306,Behavioral Assessment 307,Behavioral,"['Nurse Manager', 'Graphic Designer', 'Team Lead', 'Product Manager', 'System Architect']",Hard
+1307,Personality Assessment 308,Personality,"['IT Administrator', 'Finance Analyst']",Medium
+1308,Situational Assessment 309,Situational,"['System Architect', 'Product Manager', 'DevOps Engineer']",Easy
+1309,Cognitive Assessment 310,Cognitive,"['HR Manager', 'Project Manager', 'Business Analyst', 'Cybersecurity Analyst', 'Legal Associate']",Medium
+1310,Situational Assessment 311,Situational,"['UX Designer', 'Software Engineer', 'Medical Officer', 'Legal Associate']",Easy
+1311,Technical Assessment 312,Technical,"['Business Analyst', 'Cybersecurity Analyst', 'Consultant', 'Support Engineer']",Easy
+1312,Behavioral Assessment 313,Behavioral,"['IT Administrator', 'HR Manager', 'Digital Marketer']",Medium
+1313,Personality Assessment 314,Personality,"['Logistics Coordinator', 'Customer Service Rep']",Hard
+1314,Personality Assessment 315,Personality,"['Software Engineer', 'Operations Manager']",Medium
+1315,Technical Assessment 316,Technical,"['Retail Manager', 'DevOps Engineer', 'Project Manager', 'Sales Executive', 'IT Administrator']",Easy
+1316,Personality Assessment 317,Personality,"['QA Engineer', 'Operations Manager']",Hard
+1317,Personality Assessment 318,Personality,"['Medical Officer', 'Data Scientist', 'Support Engineer', 'Graphic Designer', 'Customer Service Rep', 'Operations Manager']",Easy
+1318,Situational Assessment 319,Situational,"['Medical Officer', 'UX Designer', 'Digital Marketer', 'Customer Service Rep', 'Software Engineer', 'Nurse Manager']",Easy
+1319,Technical Assessment 320,Technical,"['AI Engineer', 'Operations Manager', 'Support Engineer']",Hard
+1320,Cognitive Assessment 321,Cognitive,"['Retail Manager', 'Sales Executive', 'Consultant', 'DevOps Engineer']",Hard
+1321,Technical Assessment 322,Technical,"['Operations Manager', 'Graphic Designer']",Hard
+1322,Technical Assessment 323,Technical,"['Support Engineer', 'Logistics Coordinator', 'Marketing Executive', 'QA Engineer']",Easy
+1323,Technical Assessment 324,Technical,"['Operations Manager', 'Consultant', 'Data Scientist', 'AI Engineer']",Easy
+1324,Technical Assessment 325,Technical,"['Digital Marketer', 'HR Manager', 'Project Manager', 'Customer Service Rep', 'UX Designer', 'Finance Analyst']",Hard
+1325,Technical Assessment 326,Technical,"['AI Engineer', 'HR Manager', 'Finance Analyst', 'Business Analyst', 'Content Strategist']",Medium
+1326,Behavioral Assessment 327,Behavioral,"['Legal Associate', 'DevOps Engineer', 'AI Engineer', 'System Architect', 'Consultant']",Hard
+1327,Behavioral Assessment 328,Behavioral,"['Legal Associate', 'AI Engineer', 'DevOps Engineer']",Medium
+1328,Cognitive Assessment 329,Cognitive,"['Graphic Designer', 'Digital Marketer', 'Team Lead']",Medium
+1329,Technical Assessment 330,Technical,"['Retail Manager', 'Nurse Manager', 'IT Administrator', 'Business Analyst', 'Team Lead']",Easy
+1330,Cognitive Assessment 331,Cognitive,"['Project Manager', 'Team Lead', 'AI Engineer', 'HR Manager', 'Finance Analyst']",Easy
+1331,Technical Assessment 332,Technical,"['Retail Manager', 'Operations Manager', 'Digital Marketer', 'HR Manager', 'Project Manager', 'Blockchain Developer']",Medium
+1332,Cognitive Assessment 333,Cognitive,"['Consultant', 'System Architect', 'Medical Officer', 'HR Manager', 'Support Engineer', 'Data Scientist']",Medium
+1333,Situational Assessment 334,Situational,"['Sales Executive', 'UX Designer', 'Nurse Manager', 'Marketing Executive', 'Product Manager', 'QA Engineer']",Easy
+1334,Situational Assessment 335,Situational,"['Customer Service Rep', 'AI Engineer', 'Project Manager', 'Content Strategist']",Hard
+1335,Cognitive Assessment 336,Cognitive,"['Sales Executive', 'Medical Officer', 'IT Administrator', 'Operations Manager', 'Logistics Coordinator', 'Graphic Designer']",Easy
+1336,Behavioral Assessment 337,Behavioral,"['Team Lead', 'Graphic Designer', 'Retail Manager', 'Software Engineer', 'Support Engineer']",Hard
+1337,Technical Assessment 338,Technical,"['Nurse Manager', 'Product Manager', 'HR Manager']",Medium
+1338,Behavioral Assessment 339,Behavioral,"['Consultant', 'Team Lead', 'Finance Analyst', 'Blockchain Developer']",Medium
+1339,Cognitive Assessment 340,Cognitive,"['Legal Associate', 'Logistics Coordinator']",Medium
+1340,Behavioral Assessment 341,Behavioral,"['Operations Manager', 'AI Engineer', 'Nurse Manager']",Hard
+1341,Personality Assessment 342,Personality,"['Sales Executive', 'HR Manager', 'Business Analyst', 'Content Strategist', 'Software Engineer']",Hard
+1342,Technical Assessment 343,Technical,"['QA Engineer', 'Logistics Coordinator', 'Business Analyst', 'Digital Marketer']",Hard
+1343,Cognitive Assessment 344,Cognitive,"['Project Manager', 'QA Engineer', 'Marketing Executive', 'System Architect', 'Business Analyst', 'Blockchain Developer']",Easy
+1344,Behavioral Assessment 345,Behavioral,"['Sales Executive', 'Support Engineer', 'Business Analyst', 'QA Engineer']",Medium
+1345,Cognitive Assessment 346,Cognitive,"['System Architect', 'Blockchain Developer']",Easy
+1346,Situational Assessment 347,Situational,"['Retail Manager', 'System Architect', 'Operations Manager', 'HR Manager']",Hard
+1347,Cognitive Assessment 348,Cognitive,"['Team Lead', 'Business Analyst', 'Graphic Designer']",Hard
+1348,Cognitive Assessment 349,Cognitive,"['QA Engineer', 'Support Engineer', 'AI Engineer']",Hard
+1349,Technical Assessment 350,Technical,"['System Architect', 'Nurse Manager', 'Graphic Designer']",Medium
+1350,Cognitive Assessment 351,Cognitive,"['Customer Service Rep', 'Blockchain Developer', 'Medical Officer', 'QA Engineer']",Easy
+1351,Personality Assessment 352,Personality,"['Business Analyst', 'Support Engineer', 'Cybersecurity Analyst', 'IT Administrator', 'AI Engineer']",Hard
+1352,Technical Assessment 353,Technical,"['Retail Manager', 'Business Analyst', 'Content Strategist', 'Consultant', 'Cybersecurity Analyst']",Medium
+1353,Technical Assessment 354,Technical,"['Medical Officer', 'Content Strategist']",Medium
+1354,Personality Assessment 355,Personality,"['Product Manager', 'DevOps Engineer', 'Finance Analyst', 'Medical Officer', 'Customer Service Rep', 'System Architect']",Hard
+1355,Technical Assessment 356,Technical,"['Legal Associate', 'Blockchain Developer', 'Software Engineer', 'Retail Manager', 'IT Administrator', 'Graphic Designer']",Medium
+1356,Personality Assessment 357,Personality,"['Retail Manager', 'Graphic Designer', 'Data Scientist', 'Consultant', 'Operations Manager', 'IT Administrator']",Easy
+1357,Technical Assessment 358,Technical,"['DevOps Engineer', 'Team Lead']",Medium
+1358,Technical Assessment 359,Technical,"['Data Scientist', 'Support Engineer', 'Business Analyst', 'Retail Manager', 'UX Designer']",Hard
+1359,Situational Assessment 360,Situational,"['Data Scientist', 'Digital Marketer', 'Legal Associate']",Easy
+1360,Behavioral Assessment 361,Behavioral,"['Graphic Designer', 'HR Manager', 'Blockchain Developer']",Medium
+1361,Cognitive Assessment 362,Cognitive,"['AI Engineer', 'Operations Manager', 'Team Lead', 'UX Designer', 'Legal Associate']",Easy
+1362,Situational Assessment 363,Situational,"['Customer Service Rep', 'Graphic Designer', 'Finance Analyst', 'DevOps Engineer', 'Nurse Manager', 'Digital Marketer']",Easy
+1363,Personality Assessment 364,Personality,"['Sales Executive', 'Nurse Manager']",Hard
+1364,Technical Assessment 365,Technical,"['Logistics Coordinator', 'Operations Manager', 'Consultant']",Hard
+1365,Behavioral Assessment 366,Behavioral,"['Logistics Coordinator', 'Software Engineer', 'QA Engineer', 'Cybersecurity Analyst', 'Business Analyst', 'Medical Officer']",Hard
+1366,Personality Assessment 367,Personality,"['Sales Executive', 'UX Designer', 'Customer Service Rep', 'Team Lead']",Hard
+1367,Technical Assessment 368,Technical,"['Consultant', 'System Architect']",Medium
+1368,Personality Assessment 369,Personality,"['Logistics Coordinator', 'Software Engineer']",Medium
+1369,Cognitive Assessment 370,Cognitive,"['UX Designer', 'Consultant', 'IT Administrator', 'Content Strategist', 'Cybersecurity Analyst', 'Product Manager']",Medium
+1370,Technical Assessment 371,Technical,"['Retail Manager', 'AI Engineer', 'Marketing Executive', 'Cybersecurity Analyst', 'Medical Officer', 'Customer Service Rep']",Medium
+1371,Behavioral Assessment 372,Behavioral,"['Consultant', 'Finance Analyst', 'Operations Manager', 'UX Designer']",Hard
+1372,Cognitive Assessment 373,Cognitive,"['IT Administrator', 'Customer Service Rep', 'Project Manager', 'Legal Associate', 'Sales Executive']",Medium
+1373,Situational Assessment 374,Situational,"['UX Designer', 'Marketing Executive', 'Logistics Coordinator', 'Finance Analyst', 'Customer Service Rep']",Hard
+1374,Personality Assessment 375,Personality,"['Marketing Executive', 'IT Administrator', 'Blockchain Developer']",Hard
+1375,Situational Assessment 376,Situational,"['Finance Analyst', 'Business Analyst', 'Graphic Designer']",Hard
+1376,Technical Assessment 377,Technical,"['Finance Analyst', 'HR Manager', 'Blockchain Developer', 'System Architect', 'Data Scientist']",Easy
+1377,Behavioral Assessment 378,Behavioral,"['Digital Marketer', 'Operations Manager', 'Content Strategist', 'Consultant', 'QA Engineer']",Medium
+1378,Behavioral Assessment 379,Behavioral,"['Marketing Executive', 'Nurse Manager', 'Operations Manager', 'UX Designer', 'AI Engineer']",Medium
+1379,Personality Assessment 380,Personality,"['System Architect', 'QA Engineer', 'Operations Manager']",Easy
+1380,Behavioral Assessment 381,Behavioral,"['HR Manager', 'Logistics Coordinator']",Medium
+1381,Personality Assessment 382,Personality,"['Logistics Coordinator', 'QA Engineer']",Medium
+1382,Situational Assessment 383,Situational,"['UX Designer', 'QA Engineer', 'Sales Executive', 'Product Manager', 'Finance Analyst', 'Medical Officer']",Easy
+1383,Behavioral Assessment 384,Behavioral,"['Business Analyst', 'Sales Executive']",Hard
+1384,Behavioral Assessment 385,Behavioral,"['Data Scientist', 'Software Engineer', 'Business Analyst', 'Support Engineer', 'Logistics Coordinator']",Hard
+1385,Technical Assessment 386,Technical,"['Logistics Coordinator', 'Nurse Manager', 'Digital Marketer']",Medium
+1386,Cognitive Assessment 387,Cognitive,"['IT Administrator', 'Consultant', 'System Architect', 'Cybersecurity Analyst', 'DevOps Engineer', 'Team Lead']",Hard
+1387,Personality Assessment 388,Personality,"['Graphic Designer', 'Software Engineer', 'Consultant', 'Support Engineer']",Medium
+1388,Behavioral Assessment 389,Behavioral,"['Blockchain Developer', 'IT Administrator', 'Graphic Designer', 'Team Lead', 'Finance Analyst']",Hard
+1389,Cognitive Assessment 390,Cognitive,"['Finance Analyst', 'Legal Associate']",Medium
+1390,Personality Assessment 391,Personality,"['Data Scientist', 'UX Designer', 'Project Manager']",Easy
+1391,Behavioral Assessment 392,Behavioral,"['Logistics Coordinator', 'Team Lead']",Medium
+1392,Personality Assessment 393,Personality,"['Support Engineer', 'Medical Officer', 'Finance Analyst']",Easy
+1393,Behavioral Assessment 394,Behavioral,"['HR Manager', 'Operations Manager', 'Support Engineer']",Easy
+1394,Technical Assessment 395,Technical,"['Consultant', 'DevOps Engineer', 'UX Designer', 'Finance Analyst']",Easy
+1395,Technical Assessment 396,Technical,"['Finance Analyst', 'Operations Manager', 'System Architect', 'Content Strategist', 'Graphic Designer', 'DevOps Engineer']",Medium
+1396,Technical Assessment 397,Technical,"['HR Manager', 'Sales Executive', 'Finance Analyst', 'QA Engineer', 'Business Analyst', 'Project Manager']",Medium
+1397,Behavioral Assessment 398,Behavioral,"['Retail Manager', 'Project Manager']",Hard
+1398,Personality Assessment 399,Personality,"['Consultant', 'Retail Manager']",Hard
+1399,Cognitive Assessment 400,Cognitive,"['Customer Service Rep', 'Blockchain Developer']",Hard
+1400,Situational Assessment 401,Situational,"['Operations Manager', 'Nurse Manager', 'Project Manager']",Hard
+1401,Cognitive Assessment 402,Cognitive,"['Product Manager', 'Customer Service Rep', 'Digital Marketer']",Hard
+1402,Cognitive Assessment 403,Cognitive,"['Project Manager', 'Digital Marketer', 'Finance Analyst', 'QA Engineer', 'Software Engineer', 'Medical Officer']",Medium
+1403,Behavioral Assessment 404,Behavioral,"['Product Manager', 'DevOps Engineer', 'AI Engineer', 'Finance Analyst', 'Support Engineer', 'IT Administrator']",Medium
+1404,Cognitive Assessment 405,Cognitive,"['Content Strategist', 'Marketing Executive', 'Project Manager', 'Data Scientist']",Medium
+1405,Personality Assessment 406,Personality,"['IT Administrator', 'UX Designer', 'Support Engineer', 'Blockchain Developer']",Medium
+1406,Cognitive Assessment 407,Cognitive,"['Support Engineer', 'System Architect']",Easy
+1407,Technical Assessment 408,Technical,"['Graphic Designer', 'Content Strategist', 'Consultant', 'Finance Analyst', 'Digital Marketer']",Medium
+1408,Personality Assessment 409,Personality,"['Sales Executive', 'Product Manager', 'Business Analyst']",Hard
+1409,Technical Assessment 410,Technical,"['Logistics Coordinator', 'AI Engineer', 'Nurse Manager']",Easy
+1410,Technical Assessment 411,Technical,"['Nurse Manager', 'Finance Analyst', 'Sales Executive']",Medium
+1411,Personality Assessment 412,Personality,"['Consultant', 'Software Engineer', 'Finance Analyst', 'Cybersecurity Analyst']",Medium
+1412,Personality Assessment 413,Personality,"['Project Manager', 'Marketing Executive', 'Customer Service Rep', 'DevOps Engineer']",Hard
+1413,Technical Assessment 414,Technical,"['Marketing Executive', 'Product Manager']",Medium
+1414,Technical Assessment 415,Technical,"['Product Manager', 'IT Administrator', 'Data Scientist', 'Digital Marketer', 'Business Analyst']",Medium
+1415,Technical Assessment 416,Technical,"['Cybersecurity Analyst', 'Operations Manager', 'Marketing Executive', 'Graphic Designer', 'Retail Manager']",Easy
+1416,Cognitive Assessment 417,Cognitive,"['System Architect', 'Sales Executive', 'Legal Associate', 'Retail Manager', 'Content Strategist']",Hard
+1417,Behavioral Assessment 418,Behavioral,"['Graphic Designer', 'Product Manager', 'QA Engineer', 'Medical Officer', 'Project Manager', 'DevOps Engineer']",Easy
+1418,Cognitive Assessment 419,Cognitive,"['Finance Analyst', 'Medical Officer', 'DevOps Engineer', 'AI Engineer']",Easy
+1419,Cognitive Assessment 420,Cognitive,"['Graphic Designer', 'Business Analyst', 'Project Manager', 'Consultant', 'Blockchain Developer']",Easy
+1420,Personality Assessment 421,Personality,"['Sales Executive', 'Marketing Executive', 'UX Designer', 'Project Manager', 'Finance Analyst', 'Digital Marketer']",Easy
+1421,Situational Assessment 422,Situational,"['Customer Service Rep', 'Consultant']",Easy
+1422,Cognitive Assessment 423,Cognitive,"['Medical Officer', 'Nurse Manager', 'Consultant']",Easy
+1423,Cognitive Assessment 424,Cognitive,"['Support Engineer', 'IT Administrator', 'Project Manager']",Easy
+1424,Cognitive Assessment 425,Cognitive,"['System Architect', 'Product Manager', 'Business Analyst', 'Logistics Coordinator', 'Blockchain Developer', 'Customer Service Rep']",Easy
+1425,Behavioral Assessment 426,Behavioral,"['Business Analyst', 'UX Designer']",Easy
+1426,Cognitive Assessment 427,Cognitive,"['Graphic Designer', 'Nurse Manager']",Easy
+1427,Technical Assessment 428,Technical,"['Team Lead', 'Nurse Manager', 'Customer Service Rep', 'HR Manager', 'DevOps Engineer']",Medium
+1428,Cognitive Assessment 429,Cognitive,"['Software Engineer', 'Content Strategist']",Hard
+1429,Personality Assessment 430,Personality,"['HR Manager', 'Marketing Executive', 'DevOps Engineer', 'AI Engineer', 'Product Manager']",Hard
+1430,Cognitive Assessment 431,Cognitive,"['Legal Associate', 'Consultant', 'Marketing Executive']",Medium
+1431,Cognitive Assessment 432,Cognitive,"['Retail Manager', 'Medical Officer']",Hard
+1432,Technical Assessment 433,Technical,"['Sales Executive', 'Product Manager', 'Operations Manager', 'DevOps Engineer', 'Logistics Coordinator', 'Team Lead']",Medium
+1433,Situational Assessment 434,Situational,"['Graphic Designer', 'Team Lead', 'System Architect']",Medium
+1434,Technical Assessment 435,Technical,"['Legal Associate', 'AI Engineer', 'Graphic Designer']",Medium
+1435,Technical Assessment 436,Technical,"['Cybersecurity Analyst', 'Operations Manager', 'Consultant', 'System Architect']",Hard
+1436,Behavioral Assessment 437,Behavioral,"['System Architect', 'Marketing Executive', 'Sales Executive']",Hard
+1437,Technical Assessment 438,Technical,"['Graphic Designer', 'Business Analyst', 'HR Manager', 'Project Manager', 'Sales Executive', 'AI Engineer']",Hard
+1438,Technical Assessment 439,Technical,"['Digital Marketer', 'Project Manager', 'AI Engineer', 'QA Engineer']",Easy
+1439,Technical Assessment 440,Technical,"['Team Lead', 'Finance Analyst', 'IT Administrator', 'Sales Executive', 'UX Designer', 'Retail Manager']",Medium
+1440,Behavioral Assessment 441,Behavioral,"['Project Manager', 'Graphic Designer', 'AI Engineer', 'Customer Service Rep', 'Marketing Executive', 'Logistics Coordinator']",Easy
+1441,Situational Assessment 442,Situational,"['Operations Manager', 'Business Analyst', 'Marketing Executive', 'Blockchain Developer']",Easy
+1442,Situational Assessment 443,Situational,"['Finance Analyst', 'Content Strategist', 'Operations Manager']",Hard
+1443,Behavioral Assessment 444,Behavioral,"['Product Manager', 'Cybersecurity Analyst', 'IT Administrator']",Hard
+1444,Cognitive Assessment 445,Cognitive,"['Retail Manager', 'Software Engineer', 'QA Engineer', 'Finance Analyst', 'AI Engineer', 'Content Strategist']",Easy
+1445,Behavioral Assessment 446,Behavioral,"['Software Engineer', 'Team Lead', 'UX Designer']",Hard
+1446,Personality Assessment 447,Personality,"['Legal Associate', 'Customer Service Rep']",Hard
+1447,Cognitive Assessment 448,Cognitive,"['QA Engineer', 'Team Lead']",Easy
+1448,Behavioral Assessment 449,Behavioral,"['Operations Manager', 'Project Manager', 'Content Strategist', 'Cybersecurity Analyst', 'Sales Executive', 'UX Designer']",Easy
+1449,Situational Assessment 450,Situational,"['Customer Service Rep', 'Legal Associate', 'Digital Marketer', 'Project Manager', 'UX Designer']",Medium
+1450,Personality Assessment 451,Personality,"['Content Strategist', 'Medical Officer', 'Digital Marketer', 'Product Manager']",Easy
+1451,Technical Assessment 452,Technical,"['Digital Marketer', 'Product Manager', 'UX Designer', 'Software Engineer', 'Nurse Manager', 'Retail Manager']",Medium
+1452,Behavioral Assessment 453,Behavioral,"['IT Administrator', 'AI Engineer']",Medium
+1453,Cognitive Assessment 454,Cognitive,"['Retail Manager', 'DevOps Engineer', 'Medical Officer']",Medium
+1454,Cognitive Assessment 455,Cognitive,"['Project Manager', 'HR Manager', 'IT Administrator', 'Logistics Coordinator', 'Content Strategist']",Medium
+1455,Behavioral Assessment 456,Behavioral,"['Product Manager', 'Legal Associate', 'Logistics Coordinator']",Hard
+1456,Behavioral Assessment 457,Behavioral,"['Data Scientist', 'Blockchain Developer', 'Consultant', 'Nurse Manager', 'QA Engineer', 'Marketing Executive']",Easy
+1457,Cognitive Assessment 458,Cognitive,"['Team Lead', 'System Architect', 'QA Engineer', 'IT Administrator', 'Operations Manager', 'Finance Analyst']",Easy
+1458,Situational Assessment 459,Situational,"['Business Analyst', 'Nurse Manager', 'Customer Service Rep', 'Graphic Designer']",Easy
+1459,Situational Assessment 460,Situational,"['Graphic Designer', 'Blockchain Developer', 'Logistics Coordinator', 'QA Engineer', 'Cybersecurity Analyst']",Medium
+1460,Personality Assessment 461,Personality,"['Graphic Designer', 'Cybersecurity Analyst', 'Legal Associate', 'Team Lead', 'Operations Manager']",Hard
+1461,Personality Assessment 462,Personality,"['QA Engineer', 'Customer Service Rep', 'Marketing Executive']",Easy
+1462,Situational Assessment 463,Situational,"['Software Engineer', 'UX Designer', 'Medical Officer', 'Support Engineer', 'Content Strategist']",Hard
+1463,Behavioral Assessment 464,Behavioral,"['Consultant', 'Customer Service Rep', 'HR Manager', 'QA Engineer']",Hard
+1464,Cognitive Assessment 465,Cognitive,"['Consultant', 'Software Engineer', 'Nurse Manager', 'Operations Manager']",Hard
+1465,Personality Assessment 466,Personality,"['DevOps Engineer', 'Finance Analyst', 'IT Administrator']",Hard
+1466,Cognitive Assessment 467,Cognitive,"['Legal Associate', 'Medical Officer', 'Consultant', 'Support Engineer']",Medium
+1467,Technical Assessment 468,Technical,"['Blockchain Developer', 'UX Designer']",Hard
+1468,Personality Assessment 469,Personality,"['Content Strategist', 'Product Manager', 'Graphic Designer', 'Logistics Coordinator', 'Software Engineer', 'AI Engineer']",Easy
+1469,Situational Assessment 470,Situational,"['Cybersecurity Analyst', 'Team Lead', 'Logistics Coordinator', 'QA Engineer', 'DevOps Engineer', 'Software Engineer']",Easy
+1470,Personality Assessment 471,Personality,"['QA Engineer', 'Support Engineer', 'Data Scientist', 'Project Manager', 'Content Strategist', 'Sales Executive']",Easy
+1471,Personality Assessment 472,Personality,"['Software Engineer', 'Support Engineer', 'Finance Analyst', 'Customer Service Rep', 'Graphic Designer']",Medium
+1472,Cognitive Assessment 473,Cognitive,"['Team Lead', 'Legal Associate']",Medium
+1473,Situational Assessment 474,Situational,"['Marketing Executive', 'Cybersecurity Analyst']",Hard
+1474,Behavioral Assessment 475,Behavioral,"['Graphic Designer', 'Legal Associate', 'System Architect', 'Medical Officer']",Medium
+1475,Technical Assessment 476,Technical,"['UX Designer', 'Cybersecurity Analyst', 'Logistics Coordinator']",Hard
+1476,Technical Assessment 477,Technical,"['AI Engineer', 'Support Engineer', 'DevOps Engineer', 'Finance Analyst', 'Cybersecurity Analyst', 'System Architect']",Medium
+1477,Behavioral Assessment 478,Behavioral,"['IT Administrator', 'Cybersecurity Analyst', 'Project Manager', 'Finance Analyst', 'AI Engineer']",Medium
+1478,Technical Assessment 479,Technical,"['Cybersecurity Analyst', 'Software Engineer', 'Support Engineer', 'Medical Officer', 'Data Scientist', 'Retail Manager']",Hard
+1479,Personality Assessment 480,Personality,"['HR Manager', 'Data Scientist', 'AI Engineer', 'DevOps Engineer', 'Product Manager']",Medium
+1480,Cognitive Assessment 481,Cognitive,"['Marketing Executive', 'Software Engineer', 'Support Engineer', 'Operations Manager']",Hard
+1481,Technical Assessment 482,Technical,"['Digital Marketer', 'IT Administrator']",Easy
+1482,Technical Assessment 483,Technical,"['Medical Officer', 'System Architect']",Medium
+1483,Cognitive Assessment 484,Cognitive,"['Software Engineer', 'Logistics Coordinator', 'Graphic Designer', 'Consultant', 'Sales Executive']",Hard
+1484,Situational Assessment 485,Situational,"['Customer Service Rep', 'Team Lead', 'DevOps Engineer', 'Nurse Manager']",Easy
+1485,Cognitive Assessment 486,Cognitive,"['Product Manager', 'Marketing Executive']",Medium
+1486,Behavioral Assessment 487,Behavioral,"['HR Manager', 'Team Lead']",Easy
+1487,Personality Assessment 488,Personality,"['Project Manager', 'Digital Marketer', 'Operations Manager', 'IT Administrator', 'Logistics Coordinator', 'Finance Analyst']",Easy
+1488,Technical Assessment 489,Technical,"['Support Engineer', 'Marketing Executive', 'IT Administrator', 'Sales Executive', 'Consultant', 'System Architect']",Medium
+1489,Situational Assessment 490,Situational,"['Data Scientist', 'Software Engineer', 'AI Engineer', 'Digital Marketer']",Hard
+1490,Situational Assessment 491,Situational,"['Logistics Coordinator', 'Cybersecurity Analyst', 'Operations Manager', 'Marketing Executive']",Medium
+1491,Technical Assessment 492,Technical,"['Marketing Executive', 'Operations Manager', 'Finance Analyst', 'Data Scientist']",Easy
+1492,Technical Assessment 493,Technical,"['Retail Manager', 'IT Administrator', 'Software Engineer', 'Cybersecurity Analyst', 'Legal Associate', 'Team Lead']",Hard
+1493,Personality Assessment 494,Personality,"['Legal Associate', 'Retail Manager', 'Cybersecurity Analyst', 'Sales Executive']",Easy
+1494,Personality Assessment 495,Personality,"['Software Engineer', 'HR Manager']",Medium
+1495,Behavioral Assessment 496,Behavioral,"['Consultant', 'Content Strategist', 'Graphic Designer', 'Customer Service Rep']",Easy
+1496,Situational Assessment 497,Situational,"['Operations Manager', 'Finance Analyst']",Medium
+1497,Situational Assessment 498,Situational,"['AI Engineer', 'DevOps Engineer']",Medium
+1498,Behavioral Assessment 499,Behavioral,"['Data Scientist', 'Blockchain Developer', 'Business Analyst', 'System Architect']",Hard
+1499,Situational Assessment 500,Situational,"['Support Engineer', 'Product Manager']",Hard
